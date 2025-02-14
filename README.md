@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - **Learning Approach:** Using AI tools and peer-to-peer learning.
 - **Work Habits:** Enjoys using time trackers for workflow optimization.
 
-## 📌 Pinned Projects
+## 📌 Favorite Projects
 - 📅 **Task Planner** – Mobile application, my graduation project.
 - 🤖 **Ambassador Club Bot** – Automates notifications and helps motivate members.
 - 🛠 Future plans – DevOps projects when a practical case arises.
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
   ```md
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ```
-- **Current Learning Section** – Add a section listing current studies and tech.
+- **Current Learning Section** – Preparing for university admission
 - **Future Plans** – A lot of plans to develop myself
-- **Fun Facts** – Hobbies like DJing or a unique learning approach.
+- **Fun Facts** – I love EDM and being a DJ in my free time!
 
 ## 📫 Contact Me
 - [Telegram](https://t.me/your_username)
