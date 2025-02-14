@@ -48,22 +48,14 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozernyifei&layout=compact&theme=dark)
 
-## 🔹 Enhancements
-- **Activity Graphs (GitHub Stats)**
-  ```md
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozernyifei&show_icons=true&theme=dark)
-  ```
-- **Technology Badges** using `shields.io`
-  ```md
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ```
+## 🔹 Beyond Code
 - **Current Learning Section** – Preparing for university admission
 - **Future Plans** – A lot of plans to develop myself
 - **Fun Facts** – I love EDM and being a DJ in my free time!
 
 ## 📫 Contact Me
-- [Telegram](https://t.me/your_username)
-- Email: your_email@example.com
+- [Telegram](https://t.me/lyabinaln)
+- Email:lyabin.al.n@gmail.com
 
 ---
 _"Don't postpone what you can automate today."_ 🚀
