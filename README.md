@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 ## 📌 Favorite Projects
 - 📅 **Task Planner** – Mobile application, my graduation project.
-- 🤖 **Ambassador Club Bot** – Automates notifications and helps motivate members.
+- 🤖 **Ambassador Club Bot** – Automates notifications and helps motivate members. (WIP)
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozernyifei&layout=compact&theme=dark)
+<!-- ## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozernyifei&layout=compact&theme=dark) -->
 
 ## 🔹 Beyond Tech
 - **Current Learning Section** – Preparing for university admission
