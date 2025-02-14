@@ -43,12 +43,11 @@ Here are some ideas to get you started:
 ## 📌 Favorite Projects
 - 📅 **Task Planner** – Mobile application, my graduation project.
 - 🤖 **Ambassador Club Bot** – Automates notifications and helps motivate members.
-- 🛠 Future plans – DevOps projects when a practical case arises.
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozernyifei&layout=compact&theme=dark)
 
-## 🔹 Beyond Code
+## 🔹 Beyond Tech
 - **Current Learning Section** – Preparing for university admission
 - **Future Plans** – A lot of plans to develop myself
 - **Fun Facts** – I love EDM and being a DJ in my free time!
