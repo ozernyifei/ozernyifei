@@ -1,21 +1,4 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**ozernyifei/ozernyifei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi, I'm Alexander (ozernyifei)!
+# 👋 Hi, I'm Alexander!
 
 **About Me:**
 - 💻 Security Engineer at SDK Systems.
@@ -50,7 +33,6 @@ Here are some ideas to get you started:
 ## 🔹 Beyond Tech
 - **Current Learning Section** – Preparing for university admission
 - **Future Plans** – A lot of plans to develop myself
-- **Fun Facts** – I love EDM and being a DJ in my free time!
 
 ## 📫 Contact Me
 - [Telegram](https://t.me/lyabinaln)
