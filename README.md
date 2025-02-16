@@ -36,7 +36,7 @@
 
 ## 📫 Contact Me
 - [Telegram](https://t.me/lyabinaln)
-- Email:lyabin.al.n@gmail.com
+- [Email]lyabin.al.n@gmail.com
 
 ---
 _"Don't postpone what you can automate today."_ 🚀
